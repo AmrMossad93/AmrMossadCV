@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {Event, NavigationEnd, NavigationStart, Router} from '@angular/router';
 import {LoaderService} from "./Core/Service/Loader/loader.service";
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',

@@ -6,6 +6,7 @@ import {AppComponent} from './app.component';
 import {httpInterceptorProviders} from "./Core/Interceptor";
 import {NgxSpinnerModule} from "ngx-spinner";
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
+import {HttpClientModule} from "@angular/common/http";
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    NgxSpinnerModule.forRoot({ type: 'square-jelly-box' })
+    NgxSpinnerModule.forRoot({ type: 'square-jelly-box' }),
+    HttpClientModule
   ],
   providers: [httpInterceptorProviders],
   bootstrap: [AppComponent],
