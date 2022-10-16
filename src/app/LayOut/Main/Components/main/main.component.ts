@@ -4,6 +4,7 @@ import {IAboutMe} from "../../DTO/Interface/AboutMe/about-me";
 import {IServices} from "../../DTO/Interface/Services/services";
 import {IProgrammingSkills} from "../../DTO/Interface/ProgrammingSkills/programming-skills";
 import {IEducation} from "../../DTO/Interface/Education/education";
+import {IExperience} from "../../DTO/Interface/Experiance/experiance";
 
 declare let $: any;
 
@@ -17,6 +18,7 @@ export class MainComponent implements OnInit {
   servicesList: IServices[] = [];
   programmingSkillsList: IProgrammingSkills[] = [];
   educationList: IEducation[] = []
+  experienceList: IExperience[] = [];
 
   constructor(private activatedRoute: ActivatedRoute) {
   }
@@ -27,6 +29,7 @@ export class MainComponent implements OnInit {
       this.servicesList = res['servicesList'];
       this.programmingSkillsList = res['programmingSkillsList'];
       this.educationList = res['educationList'];
+      this.experienceList = res['experienceList'];
     })
     $.getScript('./assets/Tools/js/script.js');
   }
