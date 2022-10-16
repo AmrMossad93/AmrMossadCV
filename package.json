@@ -4,11 +4,9 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href=https://amrmossad93.github.io/AmrCVV3/",
+    "build": "ng build --base-href=https://amrmossad93.github.io/AmrMossadCV/",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test",
-    "deploy": "ng build --base-href https://amrmossad93.github.io/AmrCVV3/",
-    "deploy-github": "ngh dist/amr-cv-v3"
+    "test": "ng test"
   },
   "private": true,
   "dependencies": {

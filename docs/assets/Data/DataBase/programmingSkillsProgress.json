@@ -1,0 +1,90 @@
+[
+    {
+        "name": "HTML5 & CSS3",
+        "percentage": 95
+    },
+    {
+        "name": "SASS",
+        "percentage": 80
+    },
+    {
+        "name": "BOOTSTRAP",
+        "percentage": 95
+    },
+    {
+        "name": "ADOBE XD",
+        "percentage": 90
+    },
+    {
+        "name": "IONIC MOBILE APPLICATIONS",
+        "percentage": 85
+    },
+    {
+        "name": "ANGULAR",
+        "percentage": 95
+    },
+    {
+        "name": "TYPESCRIPT",
+        "percentage": 95
+    },
+    {
+        "name": "ECMASCRIPT",
+        "percentage": 92
+    },
+    {
+        "name": "JAVASCRIPT",
+        "percentage": 85
+    },
+    {
+        "name": "JQUERY",
+        "percentage": 70
+    },
+    {
+        "name": "NODEJS",
+        "percentage": 75
+    },
+    {
+        "name": "EXPRESSJS",
+        "percentage": 65
+    },
+    {
+        "name": "MONGODB",
+        "percentage": 80
+    },
+    {
+        "name": "SQL SERVER",
+        "percentage": 95
+    },
+    {
+        "name": "ASP.NET",
+        "percentage": 85
+    },
+    {
+        "name": "MVC",
+        "percentage": 90
+    },
+    {
+        "name": "C#",
+        "percentage": 85
+    },
+    {
+        "name": "ENTITY FRAMEWORK",
+        "percentage": 80
+    },
+    {
+        "name": "WEB API",
+        "percentage": 85
+    },
+    {
+        "name": "GIT",
+        "percentage": 75
+    },
+    {
+        "name": "FLUTTER",
+        "percentage": 60
+    },
+    {
+        "name": "DART",
+        "percentage": 50
+    }
+]

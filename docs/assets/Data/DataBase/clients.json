@@ -1,0 +1,42 @@
+[
+    {
+        "name": "UpStricke",
+        "imgPath": "assets/img/Me/clients/2.png",
+        "url": "http://upstricke.com/"
+    },
+    {
+        "name": "ClassTech",
+        "imgPath": "assets/img/Me/clients/logo2.png",
+        "url": "https://classtechonline.com/"
+    },
+    {
+        "name": "ESA",
+        "imgPath": "assets/img/Me/clients/logo blue 1.png",
+        "url": "http://www.egyartists.com/"
+    },
+    {
+        "name": "Lotfy Group",
+        "imgPath": "assets/img/Me/clients/logo (1).png",
+        "url": "http://lotfygrouplg.com/"
+    },
+    {
+        "name": "Grand Electronics",
+        "imgPath": "assets/img/Me/clients/Grand Logo.png",
+        "url": "https://grand-electronic-eg.com/"
+    },
+    {
+        "name": "New Gizaa",
+        "imgPath": "assets/img/Me/clients/newGiza.png",
+        "url": "http://newgiza.com/"
+    },
+    {
+        "name": "EMD4IT",
+        "imgPath": "assets/img/Me/clients/EMD4IT.png",
+        "url": "http://emd4it.com/"
+    },
+    {
+        "name": "SEEN Solutions",
+        "imgPath": "assets/img/Me/clients/seen.png",
+        "url": "https://www.seen.solutions/"
+    }
+]

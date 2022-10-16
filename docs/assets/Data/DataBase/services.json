@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "flaticon-result",
+        "serviceName": "Web Development",
+        "description": "Professional At Developing Web Application As A Front-End Web Developer Using Latest Technologies, Such As Angular Or Many Frameworks"
+    },
+    {
+        "icon": "flaticon-content",
+        "serviceName": "Mobile Development",
+        "description": "Professional At Developing Mobile Application As A Front-End Mobile Developer Using Latest Technologies, Such As Ionic , Flutter Or Many Cross-Platform"
+    },
+    {
+        "icon": "flaticon-education",
+        "serviceName": "UI/UX Development",
+        "description": "Professional At UI/UX Developing Converting Any PSD To Web Codded, Using HTML CSS Etc..."
+    },
+    {
+        "icon": "flaticon-analysis",
+        "serviceName": "ProtoType",
+        "description": "Professional at Making ProtoTypes Or Site Mapping, Using Adobe XD"
+    }
+]
