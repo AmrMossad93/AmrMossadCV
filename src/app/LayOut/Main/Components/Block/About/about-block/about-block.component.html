@@ -10,54 +10,47 @@
     <div class='row'>
 
       <div class='col-md-4'>
+        <mat-card>
+          <ul class='info-list'>
 
-        <ul class='info-list'>
+            <li>
+              <strong>Name:</strong>
+              <span>{{aboutMeOBJ.name}}</span>
+            </li>
 
-          <li>
-            <strong>Name:</strong>
-            <span>{{aboutMeOBJ.name}}</span>
-          </li>
+            <li>
+              <strong>Job:</strong>
+              <span>{{aboutMeOBJ.job}}</span>
+            </li>
 
-          <li>
-            <strong>Job:</strong>
-            <span>{{aboutMeOBJ.job}}</span>
-          </li>
+            <li>
+              <strong>Age:</strong>
+              <span>{{aboutMeOBJ.age}}</span>
+            </li>
 
-          <li>
-            <strong>Age:</strong>
-            <span>{{aboutMeOBJ.age}}</span>
-          </li>
+            <li>
+              <strong>Residence:</strong>
+              <span>{{aboutMeOBJ.residence}}</span>
+            </li>
 
-          <li>
-            <strong>Residence:</strong>
-            <span>{{aboutMeOBJ.residence}}</span>
-          </li>
+          </ul>
+        </mat-card>
 
-
-        </ul>
 
       </div>
 
       <div class='col-md-8'>
-
-        <div class='about-text'>
-          <p>
-            {{aboutMeOBJ.brief}}
-          </p>
-
-        </div>
-
-        <div class='about-btns'>
-
-          <a href='#' class='btn-custom btn-color'>
-            Download Resume
-          </a>
-
-          <a href='#' class='btn-custom btn-color'>
-            Hire Me
-          </a>
-
-        </div>
+        <mat-card>
+          <div class='about-text'>
+            <p>
+              {{aboutMeOBJ.brief}}
+            </p>
+          </div>
+          <mat-card-actions align="end">
+            <button mat-button [color]="'primary'">Download Resume</button>
+            <button mat-button [color]="'primary'">Hire Me</button>
+          </mat-card-actions>
+        </mat-card>
 
       </div>
 
