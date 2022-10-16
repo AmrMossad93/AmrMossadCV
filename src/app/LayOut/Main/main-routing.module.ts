@@ -4,6 +4,7 @@ import {MainComponent} from "./Components/main/main.component";
 import {AboutMeResolver} from "./Resolver/AboutMe/about-me.resolver";
 import {ServicesResolver} from "./Resolver/Services/services.resolver";
 import {ProgrammingSkillsResolver} from "./Resolver/ProgrammingSkills/programming-skills.resolver";
+import {EducationResolver} from "./Resolver/Education/education.resolver";
 
 const routes: Routes = [
   {
@@ -12,7 +13,8 @@ const routes: Routes = [
     resolve: {
       aboutMeData: AboutMeResolver,
       servicesList: ServicesResolver,
-      programmingSkillsList: ProgrammingSkillsResolver
+      programmingSkillsList: ProgrammingSkillsResolver,
+      educationList: EducationResolver
     }
   }
 ];
