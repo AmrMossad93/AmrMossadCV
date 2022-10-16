@@ -5,6 +5,7 @@ import { MainRoutingModule } from './main-routing.module';
 import { MainComponent } from './Components/main/main.component';
 import { AboutBlockComponent } from './Components/Block/About/about-block/about-block.component';
 import {AngularMaterialModule} from "../../Core/Module/AngularMaterial/angular-material.module";
+import {SharedModule} from "../../Shared/shared.module";
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import {AngularMaterialModule} from "../../Core/Module/AngularMaterial/angular-m
   imports: [
     CommonModule,
     MainRoutingModule,
-    AngularMaterialModule
+    AngularMaterialModule,
+    SharedModule
   ]
 })
 export class MainModule { }
