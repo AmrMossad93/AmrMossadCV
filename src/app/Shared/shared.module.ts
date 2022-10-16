@@ -2,15 +2,18 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { CardComponent } from './Components/card/card.component';
 import {AngularMaterialModule} from "../Core/Module/AngularMaterial/angular-material.module";
+import { SkillCardComponent } from './Components/skill-card/skill-card.component';
 
 
 
 @NgModule({
     declarations: [
-        CardComponent
+        CardComponent,
+        SkillCardComponent
     ],
   exports: [
-    CardComponent
+    CardComponent,
+    SkillCardComponent
   ],
   imports: [
     CommonModule,
