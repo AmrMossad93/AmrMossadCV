@@ -1,7 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {Event, NavigationEnd, NavigationStart, Router} from '@angular/router';
 import {LoaderService} from "./Core/Service/Loader/loader.service";
-
+declare let $: any;
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -23,6 +23,7 @@ export class AppComponent implements OnInit {
       }
       if (routerEvent instanceof NavigationEnd) {
         this.loaderService.hide();
+        $.getScript('../assets/Tools/js/script.js');
       }
       window.scrollTo(0, 0);
     });
