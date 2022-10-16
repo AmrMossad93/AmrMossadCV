@@ -1,0 +1,37 @@
+[
+    {
+        "from": "January 2018",
+        "to": "November 2018",
+        "company": "2M Technology",
+        "position": "Full-Stack Developer",
+        "distribution": "I Worked For 3 Months As A Back-End Developer At School Management Project By Using Web Form & SQL Server, Then I Started HR Management Project As A Front-End Developer By Using Angular 4 , TypeScript , HTML5, CSS3 , ES6 etc... , Then Started ERP Management Project For 7 Months"
+    },
+    {
+        "from": "December 2018",
+        "to": "February 2019",
+        "company": "D.M.S. Egypt",
+        "position": "Front-End Web Developer",
+        "distribution": "Customizing The JSON Result To Make The CRUD Operations, Which Come To Me From The Back-End Developer To Design It In The UI By Using Angular 4 , TypeScript , HTML5, CSS3 , ES6 etc... & I Made With My Team Insurance Website."
+    },
+    {
+        "from": "March 2019",
+        "to": "January 2020",
+        "company": "IAIAUTO (EL MOURAD GROUP)",
+        "position": "Front-End Web Developer",
+        "distribution": "Customizing The JSON Result To Make The CRUD Operations, Which Come To Me From The Back-End Developer To Design It In The UI By Using Angular 7 , TypeScript , HTML5, CSS3 , ES6 , Bootstrap 4 , Fontawsome etc... & I Made With My Team Egyptian Syndicate Of Artist's Website."
+    },
+    {
+        "from": "February 2020",
+        "to": "Present",
+        "company": "Seen Solutions",
+        "position": "Front-End Web & Mobile Part Time Developer",
+        "distribution": "Customizing The JSON Result To Make The CRUD Operations, Which Come To Me From The Back-End Developer To Design It In The UI By Using Angular 10 , TypeScript , HTML5, CSS3 , ES6 , Bootstrap 4 , Fontawsome , Ionic etc... & I Made With My Team New Giza Club Mobile Application."
+    },
+    {
+        "from": "December 2019",
+        "to": "Present",
+        "company": "UniLearn Egypt",
+        "position": "Senior Front-End Web & Mobile Developer",
+        "distribution": "Customizing The JSON Result To Make The CRUD Operations, Which Come To Me From The Back-End Developer To Design It In The UI By Using Angular 10 , TypeScript , HTML5, CSS3 , ES6 , Bootstrap 4 , Fontawsome , Ionic etc... & I Made With My Team Exam Modules."
+    }
+]

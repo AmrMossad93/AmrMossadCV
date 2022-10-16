@@ -1,0 +1,23 @@
+[
+    {
+        "from": "",
+        "to": "2017",
+        "name": "Higher Institute of Developed Studies",
+        "department": "Management Information Systems",
+        "distribution": "General Estimate : Good. Project Estimate: Excellent (It is About Web Application By ASP.NET With Technology Of Entity Framework 6 by C#, Where SQL Server \"Structure Query Language\" Is Used To Create The Database. Simply, It Is Hotel Room Reservation System)"
+    },
+    {
+        "from": "2001",
+        "to": "2011",
+        "name": "La Rose De Lisieux Language School",
+        "department": "Primary & Secondary Education",
+        "distribution": "In This Language School, I Started To Study From Primary 3 Till 3rd Secondary Education Where I Studied All School Subjects In English, Except Arabic Language, Social Studies And Religion Which Are Studied In Arabic "
+    },
+    {
+        "from": "1999",
+        "to": "2001",
+        "name": "La Rose De Lisieux Language School",
+        "department": "Primary Education",
+        "distribution": "This Is Multi-National School Where I Studied Primary 1 & 2 With American Teaching Staff."
+    }
+]
