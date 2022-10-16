@@ -23,7 +23,7 @@ export class AppComponent implements OnInit {
       }
       if (routerEvent instanceof NavigationEnd) {
         this.loaderService.hide();
-        $.getScript('../assets/Tools/js/script.js');
+        $.getScript('./assets/Tools/js/script.js');
       }
       window.scrollTo(0, 0);
     });
