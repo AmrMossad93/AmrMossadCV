@@ -4,4 +4,5 @@ export const MAIN_API_NAME = {
   PROGRAMMING_SKILLS: 'programmingSkillsProgress.json',
   EDUCATION: 'education.json',
   EXPERIENCE: 'experience.json',
+  PROJECTS: 'projects.json',
 }

@@ -1,16 +1,15 @@
-import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { CardComponent } from './Components/card/card.component';
+import {NgModule} from '@angular/core';
+import {CommonModule} from '@angular/common';
+import {CardComponent} from './Components/card/card.component';
 import {AngularMaterialModule} from "../Core/Module/AngularMaterial/angular-material.module";
-import { SkillCardComponent } from './Components/skill-card/skill-card.component';
-
+import {SkillCardComponent} from './Components/skill-card/skill-card.component';
 
 
 @NgModule({
-    declarations: [
-        CardComponent,
-        SkillCardComponent
-    ],
+  declarations: [
+    CardComponent,
+    SkillCardComponent
+  ],
   exports: [
     CardComponent,
     SkillCardComponent
@@ -20,4 +19,5 @@ import { SkillCardComponent } from './Components/skill-card/skill-card.component
     AngularMaterialModule
   ]
 })
-export class SharedModule { }
+export class SharedModule {
+}
