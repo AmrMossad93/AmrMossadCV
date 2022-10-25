@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {AfterViewInit, Component, OnInit} from '@angular/core';
 import {ActivatedRoute} from "@angular/router";
 import {IAboutMe} from "../../DTO/Interface/AboutMe/about-me";
 import {IServices} from "../../DTO/Interface/Services/services";
@@ -14,13 +14,14 @@ declare let $: any;
   templateUrl: './main.component.html',
   styleUrls: ['./main.component.css']
 })
-export class MainComponent implements OnInit {
+export class MainComponent implements OnInit, AfterViewInit {
   aboutMeOBJ = {} as IAboutMe;
   servicesList: IServices[] = [];
   programmingSkillsList: IProgrammingSkills[] = [];
   educationList: IEducation[] = []
   experienceList: IExperience[] = [];
   projectsList: IProjects[] = []
+  categories: string[] = [];
 
   constructor(private activatedRoute: ActivatedRoute) {
   }
@@ -31,14 +32,19 @@ export class MainComponent implements OnInit {
       this.servicesList = res['servicesList'];
       this.programmingSkillsList = res['programmingSkillsList'];
       this.educationList = res['educationList'];
-      this.experienceList = res['experienceList'];
-      this.projectsList = res['projectsList'];
+      this.experienceList = res['experienceList'].slice().reverse();
+      this.projectsList = res['projectsList'].slice().reverse();
     })
-    $.getScript('./assets/Tools/js/script.js');
+
+  }
+
+  ngAfterViewInit() {
     this.onLoadProjectList();
   }
 
   onLoadProjectList(): void {
-    console.log(this.projectsList)
+    let cat = this.projectsList.map(c => c.type)
+    this.categories = [...new Set(cat)];
+    $.getScript('./assets/Tools/js/script.js');
   }
 }

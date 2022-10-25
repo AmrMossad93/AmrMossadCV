@@ -9,9 +9,9 @@
         "category": "Education",
         "webSiteURL": "https://classtechonline.com/",
         "images": [
-            "assets/img/Me/Projects/ClassTechPublic.png",
-            "assets/img/Me/Projects/ClasstechPublicSite/1.png",
-            "assets/img/Me/Projects/ClasstechPublicSite/2.png"
+            "assets/Data/Me/Projects/ClassTechPublic.png",
+            "assets/Data/Me/Projects/ClasstechPublicSite/1.png",
+            "assets/Data/Me/Projects/ClasstechPublicSite/2.png"
         ],
         "vedioUrl": null
     },
@@ -25,10 +25,10 @@
         "category": "Education",
         "webSiteURL": "https://uniadmin.classtechonline.com/",
         "images": [
-            "assets/img/Me/Projects/ClassTechAdminPanel.jpg",
-            "assets/img/Me/Projects/ClassTechAdminPanel/1.png",
-            "assets/img/Me/Projects/ClassTechAdminPanel/2.png",
-            "assets/img/Me/Projects/ClassTechAdminPanel/3.png"
+            "assets/Data/Me/Projects/ClassTechAdminPanel.jpg",
+            "assets/Data/Me/Projects/ClassTechAdminPanel/1.png",
+            "assets/Data/Me/Projects/ClassTechAdminPanel/2.png",
+            "assets/Data/Me/Projects/ClassTechAdminPanel/3.png"
         ],
         "vedioUrl": null
     },
@@ -42,17 +42,17 @@
         "category": "Education",
         "webSiteURL": "https://pilotpersonal.classtechonline.com/",
         "images": [
-            "assets/img/Me/Projects/Personal.png",
-            "assets/img/Me/Projects/Personal/1.png",
-            "assets/img/Me/Projects/Personal/2.png",
-            "assets/img/Me/Projects/Personal/3.png",
-            "assets/img/Me/Projects/Personal/4.png",
-            "assets/img/Me/Projects/Personal/5.png",
-            "assets/img/Me/Projects/Personal/6.png",
-            "assets/img/Me/Projects/Personal/7.png",
-            "assets/img/Me/Projects/Personal/8.png",
-            "assets/img/Me/Projects/Personal/9.png",
-            "assets/img/Me/Projects/Personal/10.png"
+            "assets/Data/Me/Projects/Personal.png",
+            "assets/Data/Me/Projects/Personal/1.png",
+            "assets/Data/Me/Projects/Personal/2.png",
+            "assets/Data/Me/Projects/Personal/3.png",
+            "assets/Data/Me/Projects/Personal/4.png",
+            "assets/Data/Me/Projects/Personal/5.png",
+            "assets/Data/Me/Projects/Personal/6.png",
+            "assets/Data/Me/Projects/Personal/7.png",
+            "assets/Data/Me/Projects/Personal/8.png",
+            "assets/Data/Me/Projects/Personal/9.png",
+            "assets/Data/Me/Projects/Personal/10.png"
         ],
         "vedioUrl": null
     },
@@ -66,16 +66,16 @@
         "category": "Education",
         "webSiteURL": "https://pilotschool.classtechonline.com/",
         "images": [
-            "assets/img/Me/Projects/School Unilearn.png",
-            "assets/img/Me/Projects/School Unilearn.png",
-            "assets/img/Me/Projects/School Unilearn.png",
-            "assets/img/Me/Projects/School Unilearn.png",
-            "assets/img/Me/Projects/School Unilearn.png",
-            "assets/img/Me/Projects/School Unilearn.png",
-            "assets/img/Me/Projects/School Unilearn.png",
-            "assets/img/Me/Projects/School Unilearn.png",
-            "assets/img/Me/Projects/School Unilearn.png",
-            "assets/img/Me/Projects/School Unilearn.png"
+            "assets/Data/Me/Projects/School Unilearn.png",
+            "assets/Data/Me/Projects/School Unilearn.png",
+            "assets/Data/Me/Projects/School Unilearn.png",
+            "assets/Data/Me/Projects/School Unilearn.png",
+            "assets/Data/Me/Projects/School Unilearn.png",
+            "assets/Data/Me/Projects/School Unilearn.png",
+            "assets/Data/Me/Projects/School Unilearn.png",
+            "assets/Data/Me/Projects/School Unilearn.png",
+            "assets/Data/Me/Projects/School Unilearn.png",
+            "assets/Data/Me/Projects/School Unilearn.png"
         ],
         "vedioUrl": null
     },
@@ -89,10 +89,10 @@
         "webSiteURL": "https://grand-electronic-eg.com/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/GrandPublicSite.jpg",
-            "assets/img/Me/Projects/GrandPublic/1.png",
-            "assets/img/Me/Projects/GrandPublic/2.jpg",
-            "assets/img/Me/Projects/GrandPublic/3.png"
+            "assets/Data/Me/Projects/GrandPublicSite.jpg",
+            "assets/Data/Me/Projects/GrandPublic/1.png",
+            "assets/Data/Me/Projects/GrandPublic/2.jpg",
+            "assets/Data/Me/Projects/GrandPublic/3.png"
         ],
         "vedioUrl": null
     },
@@ -106,12 +106,12 @@
         "webSiteURL": "https://grand-electronic-eg.com/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/GrandAdminPanel.jpg",
-            "assets/img/Me/Projects/GrandAdmin/1.png",
-            "assets/img/Me/Projects/GrandAdmin/2.png",
-            "assets/img/Me/Projects/GrandAdmin/3.png",
-            "assets/img/Me/Projects/GrandAdmin/4.png",
-            "assets/img/Me/Projects/GrandAdmin/5.png"
+            "assets/Data/Me/Projects/GrandAdminPanel.jpg",
+            "assets/Data/Me/Projects/GrandAdmin/1.png",
+            "assets/Data/Me/Projects/GrandAdmin/2.png",
+            "assets/Data/Me/Projects/GrandAdmin/3.png",
+            "assets/Data/Me/Projects/GrandAdmin/4.png",
+            "assets/Data/Me/Projects/GrandAdmin/5.png"
         ],
         "vedioUrl": null
     },
@@ -125,13 +125,13 @@
         "webSiteURL": "http://lotfygrouplg.com/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/LgPublic.png",
-            "assets/img/Me/Projects/LgPublic/1.jpg",
-            "assets/img/Me/Projects/LgPublic/2.jpg",
-            "assets/img/Me/Projects/LgPublic/3.jpg",
-            "assets/img/Me/Projects/LgPublic/4.jpg",
-            "assets/img/Me/Projects/LgPublic/5.jpg",
-            "assets/img/Me/Projects/LgPublic/6.jpg"
+            "assets/Data/Me/Projects/LgPublic.png",
+            "assets/Data/Me/Projects/LgPublic/1.jpg",
+            "assets/Data/Me/Projects/LgPublic/2.jpg",
+            "assets/Data/Me/Projects/LgPublic/3.jpg",
+            "assets/Data/Me/Projects/LgPublic/4.jpg",
+            "assets/Data/Me/Projects/LgPublic/5.jpg",
+            "assets/Data/Me/Projects/LgPublic/6.jpg"
         ],
         "vedioUrl": null
     },
@@ -145,12 +145,12 @@
         "webSiteURL": "http://admin.lotfygrouplg.com/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/LGAdmin.png",
-            "assets/img/Me/Projects/LgAdmin/1.jpg",
-            "assets/img/Me/Projects/LgAdmin/2.png",
-            "assets/img/Me/Projects/LgAdmin/3.png",
-            "assets/img/Me/Projects/LgAdmin/4.png",
-            "assets/img/Me/Projects/LgAdmin/5.png"
+            "assets/Data/Me/Projects/LGAdmin.png",
+            "assets/Data/Me/Projects/LgAdmin/1.jpg",
+            "assets/Data/Me/Projects/LgAdmin/2.png",
+            "assets/Data/Me/Projects/LgAdmin/3.png",
+            "assets/Data/Me/Projects/LgAdmin/4.png",
+            "assets/Data/Me/Projects/LgAdmin/5.png"
         ],
         "vedioUrl": null
     },
@@ -164,10 +164,10 @@
         "webSiteURL": "http://covid-19.emd4it.com/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/COVID-19-Tracker.png",
-            "assets/img/Me/Projects/Covid-19/1.png",
-            "assets/img/Me/Projects/Covid-19/2.png",
-            "assets/img/Me/Projects/Covid-19/3.png"
+            "assets/Data/Me/Projects/COVID-19-Tracker.png",
+            "assets/Data/Me/Projects/Covid-19/1.png",
+            "assets/Data/Me/Projects/Covid-19/2.png",
+            "assets/Data/Me/Projects/Covid-19/3.png"
         ],
         "vedioUrl": null
     },
@@ -181,7 +181,7 @@
         "webSiteURL": "http://demo.emd4it.com/hr/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/HR.png"
+            "assets/Data/Me/Projects/HR.png"
         ],
         "vedioUrl": null
     },
@@ -195,7 +195,7 @@
         "webSiteURL": "https://wwwmasadevelopmentcom.000webhostapp.com/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/MASA Project.png"
+            "assets/Data/Me/Projects/MASA Project.png"
         ],
         "vedioUrl": null
     },
@@ -209,7 +209,7 @@
         "webSiteURL": "http://upstricke.com/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/UpStricke.png"
+            "assets/Data/Me/Projects/UpStricke.png"
         ],
         "vedioUrl": null
     },
@@ -223,7 +223,7 @@
         "webSiteURL": "http://www.egyartists.com/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/ESA.jpg"
+            "assets/Data/Me/Projects/ESA.jpg"
         ],
         "vedioUrl": null
     },
@@ -237,7 +237,7 @@
         "webSiteURL": "https://amrmossad93.github.io/pubgTricks/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/PUBG.jpg"
+            "assets/Data/Me/Projects/PUBG.jpg"
         ],
         "vedioUrl": null
     },
@@ -251,11 +251,11 @@
         "webSiteURL": "http://emd4it.com/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/EMD4IT.png",
-            "assets/img/Me/Projects/EMD4IT/1.jpg",
-            "assets/img/Me/Projects/EMD4IT/2.png",
-            "assets/img/Me/Projects/EMD4IT/3.jpg",
-            "assets/img/Me/Projects/EMD4IT/4.jpg"
+            "assets/Data/Me/Projects/EMD4IT.png",
+            "assets/Data/Me/Projects/EMD4IT/1.jpg",
+            "assets/Data/Me/Projects/EMD4IT/2.png",
+            "assets/Data/Me/Projects/EMD4IT/3.jpg",
+            "assets/Data/Me/Projects/EMD4IT/4.jpg"
         ],
         "vedioUrl": null
     },
@@ -269,7 +269,7 @@
         "webSiteURL": "https://amrmossad93.github.io/templateOne/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/Template !.png"
+            "assets/Data/Me/Projects/Template !.png"
         ],
         "vedioUrl": null
     },
@@ -283,7 +283,7 @@
         "webSiteURL": "https://amrmossad93.github.io/clockTricks/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/Clock.png"
+            "assets/Data/Me/Projects/Clock.png"
         ],
         "vedioUrl": null
     },
@@ -297,7 +297,7 @@
         "webSiteURL": "http://demo.emd4it.com/SinglePageOne/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/SingleWebsite.jpg"
+            "assets/Data/Me/Projects/SingleWebsite.jpg"
         ],
         "vedioUrl": null
     },
@@ -311,7 +311,7 @@
         "webSiteURL": "https://amrmossad93.github.io/SchoolTemplate/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/School.png"
+            "assets/Data/Me/Projects/School.png"
         ],
         "vedioUrl": null
     },
@@ -325,7 +325,7 @@
         "webSiteURL": "https://amrmossad93.github.io/Joker-Website/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/Joker.png"
+            "assets/Data/Me/Projects/Joker.png"
         ],
         "vedioUrl": null
     },
@@ -339,7 +339,7 @@
         "webSiteURL": "https://amrmossad93.github.io/CofeeShop/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/Cofee.jpg"
+            "assets/Data/Me/Projects/Cofee.jpg"
         ],
         "vedioUrl": null
     },
@@ -353,7 +353,7 @@
         "webSiteURL": null,
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/school-managment.png"
+            "assets/Data/Me/Projects/school-managment.png"
         ],
         "vedioUrl": null
     },
@@ -367,7 +367,7 @@
         "webSiteURL": null,
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/wordpress-insurance-themes.jpg"
+            "assets/Data/Me/Projects/wordpress-insurance-themes.jpg"
         ],
         "vedioUrl": null
     },
@@ -381,7 +381,7 @@
         "webSiteURL": "https://amrmossad93.github.io/calcuatorTricks/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/Calculator.png"
+            "assets/Data/Me/Projects/Calculator.png"
         ],
         "vedioUrl": null
     },
@@ -395,7 +395,7 @@
         "webSiteURL": "https://amrmossad93.github.io/Scroll-Bar/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/Scroll-Progress-Bar.png"
+            "assets/Data/Me/Projects/Scroll-Progress-Bar.png"
         ],
         "vedioUrl": null
     },
@@ -409,7 +409,7 @@
         "webSiteURL": "https://amrmossad93.github.io/Glowing-Light-Custom-Checkbox/",
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/Glowing-Light-Custom-Checkbox.png"
+            "assets/Data/Me/Projects/Glowing-Light-Custom-Checkbox.png"
         ],
         "vedioUrl": null
     },
@@ -423,7 +423,7 @@
         "webSiteURL": null,
         "type": "Web",
         "images": [
-            "assets/img/Me/Projects/convex-1024x679.jpg"
+            "assets/Data/Me/Projects/convex-1024x679.jpg"
         ],
         "vedioUrl": null
     },
@@ -438,12 +438,12 @@
         "iosLink": null,
         "androidLink": null,
         "images": [
-            "assets/img/Seif/2.png",
-            "assets/img/Seif/1.png",
-            "assets/img/Seif/3.png",
-            "assets/img/Seif/4.png",
-            "assets/img/Seif/5.png",
-            "assets/img/Seif/6.png"
+            "assets/Tools/img/Seif/2.png",
+            "assets/Tools/img/Seif/1.png",
+            "assets/Tools/img/Seif/3.png",
+            "assets/Tools/img/Seif/4.png",
+            "assets/Tools/img/Seif/5.png",
+            "assets/Tools/img/Seif/6.png"
         ],
         "videoUrl": null
     },
@@ -458,10 +458,10 @@
         "iosLink": null,
         "androidLink": null,
         "images": [
-            "assets/img/TaskManagment/1.png",
-            "assets/img/TaskManagment/2.png",
-            "assets/img/TaskManagment/3.png",
-            "assets/img/TaskManagment/4.png"
+            "assets/Data/Me/Projects/TaskManagment/1.png",
+            "assets/Data/Me/Projects/TaskManagment/2.png",
+            "assets/Data/Me/Projects/TaskManagment/3.png",
+            "assets/Data/Me/Projects/TaskManagment/4.png"
         ],
         "videoUrl": null
     },
@@ -476,14 +476,14 @@
         "iosLink": "https://apps.apple.com/eg/app/ngsc/id1548540039",
         "androidLink": "https://play.google.com/store/apps/details?id=com.ngsc.app",
         "images": [
-            "assets/img/NGSC/1.jpeg",
-            "assets/img/NGSC/2.jpeg",
-            "assets/img/NGSC/3.jpeg",
-            "assets/img/NGSC/4.jpeg",
-            "assets/img/NGSC/5.jpeg",
-            "assets/img/NGSC/6.jpeg",
-            "assets/img/NGSC/7.jpeg",
-            "assets/img/NGSC/8.jpeg"
+            "assets/Data/Me/Projects/NGSC/1.jpeg",
+            "assets/Data/Me/Projects/NGSC/2.jpeg",
+            "assets/Data/Me/Projects/NGSC/3.jpeg",
+            "assets/Data/Me/Projects/NGSC/4.jpeg",
+            "assets/Data/Me/Projects/NGSC/5.jpeg",
+            "assets/Data/Me/Projects/NGSC/6.jpeg",
+            "assets/Data/Me/Projects/NGSC/7.jpeg",
+            "assets/Data/Me/Projects/NGSC/8.jpeg"
         ],
         "videoUrl": null
     }
