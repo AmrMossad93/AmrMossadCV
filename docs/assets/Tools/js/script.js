@@ -35,7 +35,6 @@ $(function () {
     =========================================================================*/
     portfolio.shuffle();
     $('.portfolio-filters > li > a').on('click', function (e) {
-      e.preventDefault();
       var groupName = $(this).attr('data-group');
       $('.portfolio-filters > li > a').removeClass('active');
       $(this).addClass('active');
